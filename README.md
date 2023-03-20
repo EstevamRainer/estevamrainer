@@ -34,4 +34,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevamRainer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br><br>
   
-![Snake](https://github.com/{{EstevamRainer}}/{{EstevamRainer}})
+![Snake](https://github.com/EstevamRainer/EstevamRainer)
