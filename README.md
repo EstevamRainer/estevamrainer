@@ -1,8 +1,5 @@
 
 <h1>Seja bem vindo(a) ao meu perfil! 😎👍</h1>
-
-![Luffy](https://tenor.com/bND6F.gif)
-
 <h2>Olá! Meu nome é Estevam, prazer 😄</h2>
 
 |📝 Sobre mim|  |
