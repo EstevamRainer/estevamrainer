@@ -2,6 +2,8 @@
 <h1>Seja bem vindo(a) ao meu perfil! 😎👍</h1>
 <h2>Olá! Meu nome é Estevam, prazer 😄</h2>
 
+![luffy](https://user-images.githubusercontent.com/122125357/226228331-5c3b49d2-5595-4215-b5ec-3dd0d281cedc.gif)
+
 |📝 Sobre mim|  |
 |----------|---------------|
 |💼 Atualmente estou trabalhando em: | Procurando Emprego 🔍|
@@ -32,5 +34,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevamRainer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div><br><br>
   
-![Snake animation](https://github.com/EstevamRainer/EstevamRainer/blob/output/github-contribution-grid-snake.svg)
-
+![Snake](https://github.com/{{EstevamRainer}}/{{EstevamRainer}})
