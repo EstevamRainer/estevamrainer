@@ -2,8 +2,12 @@
 <h1>Seja bem vindo(a) ao meu perfil! 😎👍</h1>
 <h2>Olá! Meu nome é Estevam, prazer 😄</h2>
 
+<div align="center">
+          
 ![luffy](https://user-images.githubusercontent.com/122125357/226228331-5c3b49d2-5595-4215-b5ec-3dd0d281cedc.gif)
-
+          
+</div>
+          
 |📝 Sobre mim|  |
 |----------|---------------|
 |💼 Atualmente estou trabalhando em: | Procurando Emprego 🔍|
@@ -16,7 +20,10 @@
 <h2> 👩‍💻 Tecnologias que atualmente sei utilizar: </h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50"/>
-          
+
+<h2> 📚 Tecnologias que estou aprendendo: </h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" heigth="50"/>
 
 <h2> 🔧Ferramentas que sei usar: </h2>
 
