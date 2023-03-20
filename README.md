@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**EstevamRainer/estevamrainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Seja bem vindo(a) ao meu perfil! 😎👍</h1>
 
-Here are some ideas to get you started:
+![Luffy](https://tenor.com/bND6F.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Olá! Meu nome é Estevam, prazer 😄</h2>
+
+|📝 Sobre mim|  |
+|----------|---------------|
+|💼 Atualmente estou trabalhando em: | Procurando Emprego 🔍|
+|🎈 Idade| 17 Anos|
+|💍 Estado civil| Solteiro |
+|💭 Pronomes | Ele/Dele|
+|☀ Curiosidade| Para ganhar minha amizade é só me dar um copo de café com leite feito na hora ☕😂|
+|📞 Como entrar em contato comigo?| Mais a frente você verá meus contatos!|
+
+<h2> 👩‍💻 Tecnologias que atualmente sei utilizar: </h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" heigth="50"/>
+          
+
+<h2> 🔧Ferramentas que sei usar: </h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" heigth="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" heigth="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" heigth="50"/>
+
+<h2> Formas de contato </h2>
+<a href = "mailto:estevamrainerdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/estevam-lopes-258226261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://instagram.com/estevam_rainer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<br><br>
+
+<h2> ✔ Status do meu perfil </h2>
+<div>
+<a href="https://github.com/EstevamRainer">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstevamRainer&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstevamRainer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div><br><br>
+  
+![Snake animation](https://github.com/EstevamRainer/EstevamRainer/blob/output/github-contribution-grid-snake.svg)
+
