@@ -44,7 +44,7 @@
 </div>
 <br>
           
-![snake gif](https://github.com/EstevamRainer/EstevamRainer/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/EstevamRainer/EstevamRainer/blob/output/github-contribution-grid-snake.svg)
           
 <br>      
 </div>
