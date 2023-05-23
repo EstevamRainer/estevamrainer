@@ -12,7 +12,7 @@
 |💍 Estado civil| Solteiro |
 |💭 Pronomes | Ele/Dele|
 |☀ Curiosidade| Para ganhar minha amizade é só me dar um copo de café com leite feito na hora ☕😂|
-|📞 Como entrar em contato comigo?| Mais a frente você verá meus contatos!|
+|📞 Como entrar em contato comigo?| Adiante você verá meus contatos!|
 
 <h2> 👩‍💻 Tecnologias que atualmente sei utilizar: </h2>
           
