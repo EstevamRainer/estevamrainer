@@ -8,7 +8,7 @@
 |📝 Sobre mim|  |
 |----------|---------------|
 |💼 Atualmente estou trabalhando em: | Procurando Emprego 🔍|
-|🎈 Idade| 17 Anos|
+|🎈 Idade| 18 Anos|
 |💍 Estado civil| Solteiro |
 |💭 Pronomes | Ele/Dele|
 |☀ Curiosidade| Para ganhar minha amizade é só me dar um copo de café com leite feito na hora ☕😂|
@@ -47,4 +47,5 @@
 ![Snake animation](https://github.com/EstevamRainer/EstevamRainer/blob/output/github-contribution-grid-snake.svg)
           
 <br>      
+<h2> Programas que mais me orgulho </h2>
 </div>
