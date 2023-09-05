@@ -22,8 +22,8 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" heigth="50" width="50"/>
-          
+<img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" width="50" heigth="50"/>
+
 </div>
 
 <h2> 🔧Ferramentas já familiarizadas por mim: </h2>
